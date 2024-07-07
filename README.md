@@ -1,2 +1,3 @@
-# tap
-My personal Homebrew tap
+# homebrew-tap
+
+My personal Homebrew tap.
